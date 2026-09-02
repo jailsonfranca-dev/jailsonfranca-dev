@@ -1,16 +1,72 @@
-## Hi there 👋
+                    👋 Olá, eu sou Jailson França
 
-<!--
-**jailsonfranca-dev/jailsonfranca-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+           💻 Full Stack Developer | Java & JavaScript
 
-Here are some ideas to get you started:
+    Java • Spring Boot • React • REST APIs • PostgreSQL • Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          "Transformando ideias em soluções através do código."
+
+     [ LinkedIn ] [ GitHub ] [ Portfolio ] [ Email ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👨‍💻 SOBRE MIM
+
+Sou desenvolvedor Full Stack com foco em desenvolvimento
+de aplicações web modernas, APIs RESTful e sistemas escaláveis.
+
+☕ Backend
+⚛️ Frontend
+🗄️ Banco de dados
+🐳 Containers
+🧪 Testes
+🔐 Segurança
+☁️ Cloud
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 TECNOLOGIAS
+
+Backend
+Java | Spring Boot | Spring Data JPA | Hibernate
+Node.js | Express | REST API | JWT
+
+Frontend
+React | JavaScript | TypeScript | HTML | CSS
+
+Database
+PostgreSQL | MySQL | SQL Server | H2
+
+DevOps
+Docker | Git | GitHub Actions | AWS | GCP
+
+Testing
+JUnit | Mockito | Cucumber | REST Assured
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔥 PROJETOS EM DESTAQUE
+
+🏦 Sistema Backend
+Java + Spring Boot + PostgreSQL + JWT
+
+🍽️ Restaurante Regional
+React + TypeScript + API REST
+
+📦 Sistema de Controle
+Node.js + Express + PostgreSQL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GITHUB STATS
+
+[ estatísticas ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 CONTATO
+
+LinkedIn
+GitHub
+Portfolio
+Email

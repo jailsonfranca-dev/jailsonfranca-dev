@@ -1,12 +1,10 @@
-                    👋 Olá, eu sou Jailson França
+<h1 align="center">
+  Olá 👋, eu sou Jailson França
+</h1>
 
-           💻 Full Stack Developer | Java & JavaScript
-
-    Java • Spring Boot • React • REST APIs • PostgreSQL • Docker
-
-          "Transformando ideias em soluções através do código."
-
-     [ LinkedIn ] [ GitHub ] [ Portfolio ] [ Email ]
+<h3 align="center">
+  Full Stack Developer | Java | Spring Boot | React
+</h3>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

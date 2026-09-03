@@ -90,7 +90,7 @@ de aplicações web modernas, APIs RESTful e sistemas escaláveis.
 
 📫 CONTATO
 
-LinkedIn
-GitHub
+LinkedIn: https://www.linkedin.com/in/jailson-s-de-franca/
+GitHub:
 Portfolio
-Email
+Email:jailson.franca@dcx.ufpb.br

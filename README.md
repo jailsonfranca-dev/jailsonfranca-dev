@@ -63,25 +63,23 @@ de aplicações web modernas, APIs RESTful e sistemas escaláveis.
 </div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<h2 align="center">📊 GitHub Analytics</h2>
 
-🔥 PROJETOS EM DESTAQUE
+<div align="center">
 
-🏦 Sistema Backend
-Java + Spring Boot + PostgreSQL + JWT
+<img
+  height="180"
+  src="./profile/stats.svg"
+/>
+<img
+  height="180"
+  src="./profile/top-langs.svg"
+/>
 
-🍽️ Restaurante Regional
-React + TypeScript + API REST
-
-📦 Sistema de Controle
-Node.js + Express + PostgreSQL
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📊 GITHUB STATS
-
-[ estatísticas ]
+</div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 📫 CONTATO
 

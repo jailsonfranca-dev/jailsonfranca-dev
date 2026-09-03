@@ -8,18 +8,35 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-👨‍💻 SOBRE MIM
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com foco em desenvolvimento
-de aplicações web modernas, APIs RESTful e sistemas escaláveis.
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
+web e APIs RESTful, atuando principalmente com **Java + Spring Boot** no
+backend e **React + TypeScript** no frontend.
 
-☕ Backend
-⚛️ Frontend
-🗄️ Banco de dados
-🐳 Containers
-🧪 Testes
-🔐 Segurança
-☁️ Cloud
+Tenho experiência com:
+
+- ☕ Desenvolvimento de APIs REST com Java e Spring Boot
+- 🔐 Autenticação e autorização com Spring Security / JWT
+- 🗄️ PostgreSQL e MySQL
+- ⚛️ React e TypeScript
+- 🐳 Docker e ambientes containerizados
+- 🧪 Testes automatizados
+- 🔄 Git, GitHub e integração contínua
+
+🎯 Atualmente, meu foco está em evoluir minhas habilidades em **Backend Java,
+arquitetura de APIs e desenvolvimento de aplicações escaláveis**.
+
+## 📚 Atualmente estudando
+
+- ☕ Java & Spring Boot
+- 🏗️ Arquitetura de Software
+- 🔐 Spring Security & JWT
+- 🧩 Microsserviços
+- 🐳 Docker & Kubernetes
+- ☁️ AWS
+- 🔄 CI/CD
+- 🧪 Testes automatizados
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -88,12 +105,21 @@ de aplicações web modernas, APIs RESTful e sistemas escaláveis.
 </div>
 
 
-📫 CONTATO
 
-LinkedIn: https://www.linkedin.com/in/jailson-s-de-franca/
+## 📫 Contato
 
-GitHub: https://github.com/jailsonfranca-dev
+<p align="center">
 
-Portfolio: https://portfolio-2024-jailson-c14i.vercel.app/
+<a href="https://www.linkedin.com/in/jailson-s-de-franca/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-Email: jailson.franca@dcx.ufpb.br
+<a href="https://github.com/jailsonfranca-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://portfolio-2024-jailson-c14i.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</p>

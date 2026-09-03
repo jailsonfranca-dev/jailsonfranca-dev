@@ -91,6 +91,9 @@ de aplicações web modernas, APIs RESTful e sistemas escaláveis.
 📫 CONTATO
 
 LinkedIn: https://www.linkedin.com/in/jailson-s-de-franca/
-GitHub:
-Portfolio
-Email:jailson.franca@dcx.ufpb.br
+
+GitHub: https://github.com/jailsonfranca-dev
+
+Portfolio: https://portfolio-2024-jailson-c14i.vercel.app/
+
+Email: jailson.franca@dcx.ufpb.br

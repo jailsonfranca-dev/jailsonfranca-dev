@@ -84,8 +84,7 @@ de aplicações web modernas, APIs RESTful e sistemas escaláveis.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/jailsonfranca-dev/github-contribution-snake/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/jailsonfranca-dev/jailsonfranca-dev/output/github-contribution-grid-snake.svg)
 </div>
 
 
